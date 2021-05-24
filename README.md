@@ -2,6 +2,8 @@
 
 Website powered by <a href="https://github.com/gatsbyjs/gatsby" target="_blank" rel="noopener noreferrer">Gatsby</a>, a React-based open source framework for creating websites and apps, using <a href="https://github.com/css-modules/css-modules" target="_blank" rel="noopener noreferrer">CSS Modules</a> for styling purposes, <a href="https://www.netlifycms.org" target="_blank" rel="noopener noreferrer">Netlify CMS</a> as headless CMS and <a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">Cloudinary</a> for image manipulation and optimization.
 
+*Full commit history at <a href="https://github.com/Neuri-admin/neuri" target="_blank" rel="noopener noreferrer">https://github.com/Neuri-admin/neuri</a>
+
 ## Live Website
 
 <a href="https://neuri.uniri.hr" target="_blank" rel="noopener noreferrer">https://neuri.uniri.hr</a>
