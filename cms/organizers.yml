@@ -1,0 +1,233 @@
+team:
+  - name: Josipa Kajić
+    role_hr: Predsjednica
+    role_en: President
+    image: assets/images/josipa-kajic.jpg
+    description_hr: Moje ime je Josipa Kajić. Studentica sam medicine. Inače sam
+      Zagrepčanka rođena u Ukrajini koja se uspjela naviknuti na ludo riječko
+      vrijeme. Od malih nogu sam postavljala previše pitanja o mozgu pa je
+      upravo neuroznanost područje kojim se želim baviti cijeli život. U
+      slobodno vrijeme, ako ga uhvatim, plivam i volontiram.
+    description_en: Moje ime je Josipa Kajić. Studentica sam medicine. Inače sam
+      Zagrepčanka rođena u Ukrajini koja se uspjela naviknuti na ludo riječko
+      vrijeme. Od malih nogu sam postavljala previše pitanja o mozgu pa je
+      upravo neuroznanost područje kojim se želim baviti cijeli život. U
+      slobodno vrijeme, ako ga uhvatim, plivam i volontiram.
+  - name: Vinko Beg
+    role_hr: Potpredsjednik
+    role_en: Vicepresident
+    image: assets/images/vinko_beg.jpg
+    description_hr: "Zovem se Vinko i dolazim s Raba. Student sam 4. godine medicine
+      i ovo mi je treća godina na NeuRi-ju. Svako slobodno vrijeme nastojim
+      provesti u šetnji, a kad ga se dovoljno skupi volim i negdje otputovati.
+      Veselim se organizaciji ovogodišnjeg kongresa te se radujem novim
+      iskustvima i izazovima koje će sa sobom donijeti. "
+    description_en: "Zovem se Vinko i dolazim s Raba. Student sam 4. godine medicine
+      i ovo mi je treća godina na NeuRi-ju. Svako slobodno vrijeme nastojim
+      provesti u šetnji, a kad ga se dovoljno skupi volim i negdje otputovati.
+      Veselim se organizaciji ovogodišnjeg kongresa te se radujem novim
+      iskustvima i izazovima koje će sa sobom donijeti. "
+  - name: Emina Horvat Velić
+    role_hr: Glavna tajnica
+    role_en: "General secretary "
+    image: assets/images/emina_horvat_velić.jpg
+    description_hr: "Studentica sam preddiplomskog studija biologije (PMF Zagreb).
+      Osim što previše gledam serije, bavim se borilačkim vještinama,
+      fotografijom i plakanjem nad činjenicom da na laptopu ne mogu pokrenuti
+      Metal Gear Solid V: The Phantom Pain. Glavne zadaće na kongresu su mi
+      obrada i kategoriziranje prijava, te korespondencija sa sudionicima."
+    description_en: "Studentica sam preddiplomskog studija biologije (PMF Zagreb).
+      Osim što previše gledam serije, bavim se borilačkim vještinama,
+      fotografijom i plakanjem nad činjenicom da na laptopu ne mogu pokrenuti
+      Metal Gear Solid V: The Phantom Pain. Glavne zadaće na kongresu su mi
+      obrada i kategoriziranje prijava, te korespondencija sa sudionicima."
+  - name: Tina Župetić
+    description_hr: Zovem se Tina Župetić i studentica sam 3. godine medicine u
+      Rijeci. Zbog svog velikog zanimanja za sve u vezi mozga odlučila sam se
+      ove godine pridružiti timu NeuRi-ja i mogu reći da se i više nego veselim
+      vidjeti realizirani kongres. Osim svega vezanoga uz faks, u slobodno
+      vrijeme volim pokoje putovanje, fotografiju i dobar film ili knjigu.
+    description_en: Zovem se Tina Župetić i studentica sam 3. godine medicine u
+      Rijeci. Zbog svog velikog zanimanja za sve u vezi mozga odlučila sam se
+      ove godine pridružiti timu NeuRi-ja i mogu reći da se i više nego veselim
+      vidjeti realizirani kongres. Osim svega vezanoga uz faks, u slobodno
+      vrijeme volim pokoje putovanje, fotografiju i dobar film ili knjigu.
+    role_en: Secretary
+    role_hr: Tajnica
+    image: assets/images/tina_župetić.jpg
+  - name: Eva Levatić
+    description_hr: Ja sam Eva, studentica 4.godine medicine. Dio sam ovog kongresa
+      jer me zanima neuroznanost. Takoder, smatram ovo dobrom prilikom za
+      kvalitetno druženje.
+    description_en: Ja sam Eva, studentica 4.godine medicine. Dio sam ovog kongresa
+      jer me zanima neuroznanost. Takoder, smatram ovo dobrom prilikom za
+      kvalitetno druženje.
+    role_en: Book of Abstracts Editor
+    role_hr: Urednica knjige sažetaka
+    image: assets/images/eva_levatić.jpg
+  - name: Matea Galetić
+    role_en: Scientific Logistics Coordinator
+    role_hr: Koordinatorica znanstvene logistike
+    image: assets/images/matea_galetić.jpg
+    description_hr: Pozdrav svima! Moje ime je Matea Galetić. Dolazim iz Samobora,
+      meni osobno najljepšeg grada Hrvatske 🙂 Studentica sam četvrte godine
+      medicine. U svoje slobodno vrijeme volim pogledati dobru seriju te
+      ispijati kavicu uz obalu. 😎 Ovo mi je prva godina sudjelovanja u NeuRi
+      kongresu te se nadam sklapanju novih prijateljstava, dobroj zabavi i u
+      konačnici, da ću nakon kongresa biti bogatija znanjem iz područja
+      neuroznanosti 😀
+    description_en: Pozdrav svima! Moje ime je Matea Galetić. Dolazim iz Samobora,
+      meni osobno najljepšeg grada Hrvatske 🙂 Studentica sam četvrte godine
+      medicine. U svoje slobodno vrijeme volim pogledati dobru seriju te
+      ispijati kavicu uz obalu. 😎 Ovo mi je prva godina sudjelovanja u NeuRi
+      kongresu te se nadam sklapanju novih prijateljstava, dobroj zabavi i u
+      konačnici, da ću nakon kongresa biti bogatija znanjem iz područja
+      neuroznanosti 😀
+  - name: Vinko Pavlov
+    image: assets/images/vinko-pavlov.jpg
+    description_hr: Pozdrav svima, zovem se Vinko Pavlov i dolazim iz Splita.
+      Student sam 4. godine medicine na Medicinskom fakultetu u Rijeci te prvi
+      put sudjelujem kao član organizacijskog odbora NeuRi kongresa. Volim
+      sklapati nova prijateljstva te se smatram pouzdanim, pristupačnim i
+      komunikativnim. U slobodno vrijeme bavim se SCUBA ronjenjem i čitanjem, a
+      osim toga volim i popit kavu u dobrom društvu (ipak sam dalmatinac).
+    description_en: Pozdrav svima, zovem se Vinko Pavlov i dolazim iz Splita.
+      Student sam 4. godine medicine na Medicinskom fakultetu u Rijeci te prvi
+      put sudjelujem kao član organizacijskog odbora NeuRi kongresa. Volim
+      sklapati nova prijateljstva te se smatram pouzdanim, pristupačnim i
+      komunikativnim. U slobodno vrijeme bavim se SCUBA ronjenjem i čitanjem, a
+      osim toga volim i popit kavu u dobrom društvu (ipak sam dalmatinac).
+    role_en: Scientific Logistics Coordinator
+    role_hr: Koordinator znanstvene logistike
+  - role_hr: Koordinatorica znanstvene logistike
+    role_en: Scientific Logistics Coordinators
+    image: assets/images/karla_havidić.jpeg
+    description_hr: Ja sam Karla Havidić. Dolazim iz Velike Gorice i studentica sam
+      treće godine medicine. U slobodno vrijeme bavim se plesom i uživam u
+      druženju s pozitivnim ljudima. Neuroznanost mi postavlja zanimljivo
+      pitanje povezanosti uma i samog tijela, nadam se da ćemo neke od odgovora
+      pronaći skupa!
+    description_en: Ja sam Karla Havidić. Dolazim iz Velike Gorice i studentica sam
+      treće godine medicine. U slobodno vrijeme bavim se plesom i uživam u
+      druženju s pozitivnim ljudima. Neuroznanost mi postavlja zanimljivo
+      pitanje povezanosti uma i samog tijela, nadam se da ćemo neke od odgovora
+      pronaći skupa!
+    name: Karla Havidić
+  - name: Petra Petanjek
+    description_hr: Moje ime je Petra Petanjek i studentica sam medicine u Rijeci.
+      Kada nisam zaokupljena faksom, volim piti kave s frendovima i gledati
+      filmove.
+    description_en: Moje ime je Petra Petanjek i studentica sam medicine u Rijeci.
+      Kada nisam zaokupljena faksom, volim piti kave s frendovima i gledati
+      filmove.
+    image: assets/images/petra_petanjek-.jpeg
+    role_en: Resources Coordinator
+    role_hr: Koordinatorica resursa
+  - name: Marija Grković
+    description_hr: Ja sam Marija Grković i dolazim iz najljepšeg grada-Zadra.
+      Studentica sam četvrte  godine medicine u Rijeci, a ove godine po prvi put
+      sudjelujem u organizaciji NeuRi-ja. Veselim se novom iskustvu i
+      upoznavanju zanimljivih ljudi.
+    description_en: Ja sam Marija Grković i dolazim iz najljepšeg grada-Zadra.
+      Studentica sam četvrte  godine medicine u Rijeci, a ove godine po prvi put
+      sudjelujem u organizaciji NeuRi-ja. Veselim se novom iskustvu i
+      upoznavanju zanimljivih ljudi.
+    image: assets/images/marija_grković.jpg
+    role_en: Resources Coordinator
+    role_hr: Koordinatorica resursa
+  - name: Tea Miletić
+    description_hr: Zovem se Tea, studentica sam medicine i dolazim iz Poreča. Kada
+      nisam za knjigom volim druženja sa prijateljima, šetnje uz more i čim mi
+      se pruži prilika putujem.
+    description_en: Zovem se Tea, studentica sam medicine i dolazim iz Poreča. Kada
+      nisam za knjigom volim druženja sa prijateljima, šetnje uz more i čim mi
+      se pruži prilika putujem.
+    image: assets/images/tea_miletić.jpg
+    role_en: Dietary Coordinator
+    role_hr: Koordinatorica za prehranu
+  - name: "Eugen Car "
+    description_hr: Moje ime je Eugen Car i student sam Medicine na Medicinskom
+      fakultetu u Rijeci. Ovo mi je prva godina na NeuRi-ju, zbog čega sam
+      iznimno sretan i dodatno motiviran. U slobodno vrijeme volim biti aktivan,
+      putovati, upoznavati druge ljude i družiti se. Međutim, uživam i u laganim
+      šetnjama i opuštenom ispijanju kave na suncu.
+    description_en: Moje ime je Eugen Car i student sam Medicine na Medicinskom
+      fakultetu u Rijeci. Ovo mi je prva godina na NeuRi-ju, zbog čega sam
+      iznimno sretan i dodatno motiviran. U slobodno vrijeme volim biti aktivan,
+      putovati, upoznavati druge ljude i družiti se. Međutim, uživam i u laganim
+      šetnjama i opuštenom ispijanju kave na suncu.
+    image: assets/images/eugen_car.jpg
+    role_en: Participant Coordinator
+    role_hr: Koordinator sudionika
+  - name: Marija Mužić
+    description_hr: Studentica sam medicine na Medicinskom fakultetu Sveučilišta u
+      Rijeci. Dolazim sa otoka Cresa. Zanima me neuroznanost zbog čega i jesam
+      dio ovog kongresa. Slobodno vrijeme volim provoditi u prirodi, baviti se
+      sportom i planinariti.
+    description_en: Studentica sam medicine na Medicinskom fakultetu Sveučilišta u
+      Rijeci. Dolazim sa otoka Cresa. Zanima me neuroznanost zbog čega i jesam
+      dio ovog kongresa. Slobodno vrijeme volim provoditi u prirodi, baviti se
+      sportom i planinariti.
+    image: assets/images/marija_mužić.jpeg
+    role_en: Participant Coordinator
+    role_hr: Koordinatorica sudionika
+  - name: Silvestar Mežnarić
+    description_hr: Moje ime je Silvestar Mežnarić, te već treću godinu studiram na
+      Medicinskom fakultetu u Rijeci na studiju Sanitarno inženjerstvo. Na
+      kongresu sam debitirao 2017. godine kao volonter, te nastavio 2018. u
+      Organizacijskom odboru u tehničkoj službi. Veselim se NeuRi-u i jedan od
+      razloga zbog kojeg sam se i angažirao je to što smatram da je važno
+      prikazati Medicinski fakultet u Rijeci u što boljem izdanju kako u
+      znanstvenom tako i društvenom smislu, ne samo na razini Hrvatske, već i
+      cijele regije.
+    description_en: Moje ime je Silvestar Mežnarić, te već treću godinu studiram na
+      Medicinskom fakultetu u Rijeci na studiju Sanitarno inženjerstvo. Na
+      kongresu sam debitirao 2017. godine kao volonter, te nastavio 2018. u
+      Organizacijskom odboru u tehničkoj službi. Veselim se NeuRi-u i jedan od
+      razloga zbog kojeg sam se i angažirao je to što smatram da je važno
+      prikazati Medicinski fakultet u Rijeci u što boljem izdanju kako u
+      znanstvenom tako i društvenom smislu, ne samo na razini Hrvatske, već i
+      cijele regije.
+    image: assets/images/silvestar_mežnarić.jpg
+    role_hr: Koordinator za tehničku podršku
+    role_en: Technical Support Coordinator
+  - name: Mario Barukčić
+    description_hr: Ja sam Mario Barukčić i student sam 4. godine Medicine. Ovo je
+      moje prvo sudjelovanje na Neuri-ju i velika mi je čast biti dio ove
+      organizacije. Radujem se druženju, novim iskustvima i novim spoznajama na
+      području neuroznanosti.
+    description_en: Ja sam Mario Barukčić i student sam 4. godine Medicine. Ovo je
+      moje prvo sudjelovanje na Neuri-ju i velika mi je čast biti dio ove
+      organizacije. Radujem se druženju, novim iskustvima i novim spoznajama na
+      području neuroznanosti.
+    image: assets/images/mario_barukčić.jpg
+    role_en: Technical Support Coordinator
+    role_hr: Koordinator za tehničku podršku
+  - name: Magda Gajski
+    description_en: Studentica sam 5.godine na Medicinskom fakultetu u Rijeci. Bavim
+      se studentskim aktivizmom od svoje prve godine i to mi je posebna strast.
+      Osim toga jako volim putovanja, upoznavanje novih ljudi i stjecanje novih
+      iskustava 🙂
+    description_hr: Studentica sam 5.godine na Medicinskom fakultetu u Rijeci. Bavim
+      se studentskim aktivizmom od svoje prve godine i to mi je posebna strast.
+      Osim toga jako volim putovanja, upoznavanje novih ljudi i stjecanje novih
+      iskustava 🙂
+    image: assets/images/magda_gajski.jpeg
+    role_en: Social Network Coordinator
+    role_hr: Koordinatorica za društvene mreže
+  - name: Christina Isabell Jukić
+    role_hr: Počasna predsjednica
+    role_en: Honorary president
+    image: assets/images/christina-isabell-jukić.jpg
+    description_hr: Provela sam 5 godina u NeuRiju, od čega sam 3 godine bila
+      predsjednica. NeuRi je za mene bio i zauvijek će ostati projekt ljubavi i
+      prijateljstva koji mene izgradio kao osobu i pružio mi neprocjenjiva
+      iskustva.  Svoj sam put nastavila daleko od neuroznanosti,
+      specijalizantica sam ortopedije i traumatologije u Njemačkoj i sretna sam
+      što mogu reći da živim svoj san.
+    description_en: Provela sam 5 godina u NeuRiju, od čega sam 3 godine bila
+      predsjednica. NeuRi je za mene bio i zauvijek će ostati projekt ljubavi i
+      prijateljstva koji mene izgradio kao osobu i pružio mi neprocjenjiva
+      iskustva.  Svoj sam put nastavila daleko od neuroznanosti,
+      specijalizantica sam ortopedije i traumatologije u Njemačkoj i sretna sam
+      što mogu reći da živim svoj san.

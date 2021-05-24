@@ -1,0 +1,13 @@
+sponsors:
+  - name: Psychiatric Hospital Rab
+    image: assets/images/psihijatrija_rab.jpg
+    link: https://www.bolnicarab.hr/
+  - name: MedRi
+    image: assets/images/medri.png
+    link: https://www.medri.uniri.hr/hr/
+  - name: FOSS MedRi
+    image: assets/images/foss_logo.jpg
+    link: http://foss.hr/
+  - name: SZSUR
+    image: assets/images/szsur.png
+    link: https://sz.uniri.hr/

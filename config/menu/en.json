@@ -1,0 +1,11 @@
+{
+  "menuItems": [
+    { "name": "News", "link": "/#news" },
+    { "name": "About", "link": "/#about" },
+    { "name": "Pricing", "link": "/#pricing" },
+    { "name": "Documents", "link": "/documents" },
+    { "name": "Team", "link": "/#team" },
+    { "name": "Contact", "link": "/#contact" },
+    { "name": "Archive", "link": "/archive" }
+  ]
+}

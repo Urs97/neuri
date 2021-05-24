@@ -1,0 +1,24 @@
+{
+  "languageMapping": [
+    {
+      "en": "/blog",
+      "hr": "/blog"
+    },
+    {
+      "en": "/documents",
+      "hr": "/dokumenti"
+    },
+    {
+      "en": "/organizers",
+      "hr": "/organizatori"
+    },
+    {
+      "en": "/board",
+      "hr": "/odbor"
+    },
+    {
+      "en": "/archive",
+      "hr": "/arhiva"
+    }
+  ]
+} 

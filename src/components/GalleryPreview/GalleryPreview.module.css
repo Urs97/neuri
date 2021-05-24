@@ -1,0 +1,42 @@
+.wrapper {
+    margin: 2em 0;
+}
+
+.title {
+    font-size: 2em;
+    margin-top: 1.5em;
+    margin-bottom: 1.2em;
+}
+
+.images {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(8em, 1fr));
+    grid-template-rows: 1fr;
+    gap: 1em;
+    row-gap: 0em;
+}
+
+.image {
+    height: 8em;
+    width: 100%;
+    border-radius: 0.5em;
+}
+
+.button {
+    font-size: 1.15em;
+    display: block;
+    width: max-content;
+    margin: 1em auto;
+    margin-top: 2.2em;
+}
+
+@media (max-width: 550px) {
+    .title {
+        margin-top: 2em;
+    }
+
+    .images {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
+    }
+}

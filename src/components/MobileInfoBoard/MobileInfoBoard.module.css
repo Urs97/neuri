@@ -1,0 +1,22 @@
+.wrapper {
+    width: 100%;
+    background-color: rgb(83, 186, 103);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 1em;
+    justify-items: center;
+    padding: 1.25em 1em;
+}
+
+@media (max-width: 450px) {
+    .wrapper {
+        grid-template-columns: 1fr;
+        row-gap: 1.25em;
+    }
+}
+
+@media (min-width: 550px) {
+    .wrapper {
+        display: none;
+    }
+}

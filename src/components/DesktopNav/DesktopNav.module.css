@@ -1,0 +1,101 @@
+.wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  z-index: 2;
+  display: none;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5em 1em;
+}
+
+.sticky {
+  position: fixed;
+  width: 100vw !important;
+  z-index: 3;
+  background-color: rgb(239, 146, 180);
+  padding: 0.5em 12em;
+  transition: ease-in-out 0.5s;
+}
+
+.logo_wrapper {
+  display: block;
+  border-radius: 0.5em;
+  overflow: hidden;
+}
+
+.logo {
+  width: 5em;
+}
+
+.nav a {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #FFFFFF;
+  font-size: 0.9em;
+}
+
+.nav a:hover {
+  color: rgb(83, 186, 103);
+}
+
+.nav a:not(:last-child) {
+  margin-right: 2em;
+}
+
+@media (min-width: 1024px) {
+  .wrapper {
+    display: flex;
+  }
+}
+
+@media (max-width: 1500px) {
+  .sticky {
+    padding: 0.5em 8em;
+  }
+}
+
+@media (max-width: 1366px) {
+  .wrapper {
+    width: 85%;
+  }
+}
+
+@media (max-width: 1280px) {
+  .sticky {
+    padding: 0.5em 6em;
+  }
+}
+
+@media (max-width: 1200px) {
+  .wrapper {
+    width: 90%;
+  }
+
+  .sticky {
+    padding: 0.5em 4em;
+  }
+
+  .nav a:not(:last-child) {
+    margin-right: 1.75em;
+  }
+}
+
+@media (max-width: 1140px) {
+  .wrapper {
+    width: 90%;
+  }
+
+  .nav a:not(:last-child) {
+    margin-right: 1.25em;
+  }
+}
+
+@media (max-width: 1050px) {
+  .nav a:not(:last-child) {
+    margin-right: 1em;
+  }
+}

@@ -1,0 +1,10 @@
+.image {
+    height: 10em;
+    border-radius: 0.5em;
+}
+
+@media (max-width: 650px) {
+    .image {
+        height: 8em;
+    }
+}

@@ -1,0 +1,4 @@
+partners:
+  - name: Test
+    image: assets/images/blank.png
+    link: https://www.google.com

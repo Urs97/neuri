@@ -1,0 +1,23 @@
+brochures_3:
+  - brochure_title_hr: Aktivni
+    brochure_title_en: Active
+    brochure_price_hr: 50 kn
+    brochure_price_en: 7 eur
+    perks:
+      - perk_hr: Sudjelovanje u znanstvenom programu, pristup plenarnim predavanjima i
+          radionicama
+        perk_en: Admission to the scientific program, plenary lectures, and workshops
+      - perk_hr: Knjiga sažetaka i potvrda o aktivnom sudjelovanju u PDF obliku
+        perk_en: A copy of the book of abstracts and certificate of active participation
+          in a PDF format
+  - brochure_title_hr: Pasivni
+    brochure_title_en: Passive
+    brochure_price_hr: 30 kn
+    brochure_price_en: 4 eur
+    perks:
+      - perk_hr: Sudjelovanje u znanstvenom programu, pristup plenarnim predavanjima i
+          radionicama
+        perk_en: Admission to the scientific program, plenary lectures, and workshops
+      - perk_en: A copy of the book of abstracts and certificate of passive
+          participation in a PDF format
+        perk_hr: Knjiga sažetaka i potvrda o pasivnom sudjelovanju u PDF obliku

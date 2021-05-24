@@ -1,0 +1,262 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: 'static/assets/images'
+public_folder: 'assets/images'
+
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/blog'
+    create: true
+    slug: 'index'
+    media_folder: ''
+    public_folder: ''
+    path: '{{title}}/index'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Language', name: 'lang', widget: 'string' }
+      - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'image' }
+      - { label: 'Thumbnail Author', name: 'thumbnail_author', widget: 'string'}
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "General"
+        name: "general"
+        file: cms/general.yml
+        fields: 
+          - {label: Register Link, name: register_link, widget: string }
+          
+      - label: "Homepage"
+        name: "homepage"
+        file: cms/homepage.yml
+        fields:
+          - {label: Subtitle Hr, name: subtitle_hr, widget: string}
+          - {label: Subtitle En, name: subtitle_en, widget: string}
+          - {label: Title 1 Hr, name: title_1_hr, widget: string}
+          - {label: Title 2 Hr, name: title_2_hr, widget: string}
+          - {label: Title 1 En, name: title_1_en, widget: string}
+          - {label: Title 2 En, name: title_2_en, widget: string}
+          - {label: Countdown Date, name: date, widget: datetime, date_format: "MM.DD.YYYY"}
+          - {label: Info Title 1 Hr, name: info_title_1_hr, widget: string}
+          - {label: Info Text 1 Hr, name: info_text_1_hr, widget: string}
+          - {label: Info Title 1 En, name: info_title_1_en, widget: string}
+          - {label: Info Text 1 En, name: info_text_1_en, widget: string}
+          - {label: Info Title 2 Hr, name: info_title_2_hr, widget: string}
+          - {label: Info Text 2 Hr, name: info_text_2_hr, widget: string}
+          - {label: Info Title 2 En, name: info_title_2_en, widget: string}
+          - {label: Info Text 2 En, name: info_text_2_en, widget: string}
+          - {label: Info Title 3 Hr, name: info_title_3_hr, widget: string}
+          - {label: Info Text 3 Hr, name: info_text_3_hr, widget: string}
+          - {label: Info Title 3 En, name: info_title_3_en, widget: string}
+          - {label: Info Text 3 En, name: info_text_3_en, widget: string}
+          - {label: Info Title 4 Hr, name: info_title_4_hr, widget: string}
+          - {label: Info Text 4 Hr, name: info_text_4_hr, widget: string}
+          - {label: Info Title 4 En, name: info_title_4_en, widget: string}
+          - {label: Info Text 4 En, name: info_text_4_en, widget: string}
+
+      - label: "About"
+        name: "about"
+        file: cms/about.yml
+        fields: 
+          - {label: Text 1 Hr, name: text_1_hr, widget: string}
+          - {label: Text 2 Hr, name: text_2_hr, widget: string}
+          - {label: Text 1 En, name: text_1_en, widget: string}
+          - {label: Text 2 En, name: text_2_en, widget: string}
+          - {label: Image 1, name: image_1, widget: image}
+          - {label: Image 2, name: image_2, widget: image}
+          - {label: Image 3, name: image_3, widget: image}
+          - {label: Image 4, name: image_4, widget: image}
+
+      - label: "Brochures 1"
+        name: "brochures_1"
+        file: cms/brochures_1.yml
+        fields:
+          - label: Brochures
+            name: brochures_1
+            widget: list
+            fields: 
+              - {label: Brochure Title Hr, name: brochure_title_hr, widget: string}
+              - {label: Brochure Title En, name: brochure_title_en, widget: string}
+              - {label: Brochure Price Hr, name: brochure_price_hr, widget: string}
+              - {label: Brochure Price En, name: brochure_price_en, widget: string}
+              - label: Perks
+                name: perks
+                widget: list
+                fields:
+                  - {label: Perk Hr, name: perk_hr, widget: string}
+                  - {label: Perk En, name: perk_en, widget: string}
+
+      - label: "Brochures 2"
+        name: "brochures_2"
+        file: cms/brochures_2.yml
+        fields:
+          - label: Brochures
+            name: brochures_2
+            widget: list
+            fields: 
+              - {label: Brochure Title Hr, name: brochure_title_hr, widget: string}
+              - {label: Brochure Title En, name: brochure_title_en, widget: string}
+              - {label: Brochure Price Hr, name: brochure_price_hr, widget: string}
+              - {label: Brochure Price En, name: brochure_price_en, widget: string}
+              - label: Perks
+                name: perks
+                widget: list
+                fields:
+                  - {label: Perk Hr, name: perk_hr, widget: string}
+                  - {label: Perk En, name: perk_en, widget: string}
+
+      - label: "Brochures 3"
+        name: "brochures_3"
+        file: cms/brochures_3.yml
+        fields:
+          - label: Brochures
+            name: brochures_3
+            widget: list
+            fields: 
+              - {label: Brochure Title Hr, name: brochure_title_hr, widget: string}
+              - {label: Brochure Title En, name: brochure_title_en, widget: string}
+              - {label: Brochure Price Hr, name: brochure_price_hr, widget: string}
+              - {label: Brochure Price En, name: brochure_price_en, widget: string}
+              - label: Perks
+                name: perks
+                widget: list
+                fields:
+                  - {label: Perk Hr, name: perk_hr, widget: string}
+                  - {label: Perk En, name: perk_en, widget: string}
+
+      - label: "Payments"
+        name: "payments"
+        file: cms/payments.yml
+        fields:
+          - {label: Name Hr, name: name_hr, widget: string}
+          - {label: Name En, name: name_en, widget: string}
+          - {label: Address Hr, name: address_hr, widget: string}
+          - {label: Address En, name: address_en, widget: string}
+          - {label: Iban Hr, name: iban_hr, widget: string}
+          - {label: Iban En, name: iban_en, widget: string}
+          - {label: Phone Hr, name: phone_hr, widget: string}
+          - {label: Phone En, name: phone_en, widget: string}
+          - {label: Description Hr, name: description_hr, widget: string}
+          - {label: Description En, name: description_en, widget: string}
+
+      - label: "Organizers"
+        name: "organizers"
+        file: cms/organizers.yml
+        fields:
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Role Hr, name: role_hr, widget: string}
+              - {label: Role En, name: role_en, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Description Hr, name: description_hr, widget: string}
+              - {label: Description En, name: description_en, widget: string}
+
+      - label: "Sponsors"
+        name: "sponsors"
+        file: cms/sponsors.yml
+        fields:
+          - label: Sponsors
+            name: sponsors
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Link, name: link, widget: string}
+
+      - label: "Partners"
+        name: "partners"
+        file: cms/partners.yml
+        fields:
+          - label: Partners
+            name: partners
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Link, name: link, widget: string}
+
+      - label: "Contact"
+        name: "contact"
+        file: cms/contact.yml
+        fields:
+          - {label: President, name: president, widget: string}
+          - {label: President Email, name: president_email, widget: string}
+          - {label: President Phone, name: president_phone, widget: string}
+          - {label: Organizer, name: organizer, widget: string}
+          - {label: Organizer Email, name: organizer_email, widget: string}
+          - {label: Organizer Address, name: organizer_address, widget: string}
+
+      - label: "Archive Books"
+        name: "archive_books"
+        file: cms/archive_books.yml
+        fields:
+          - label: Archives
+            name: archives
+            widget: list
+            fields:
+              - {label: Archive Name Hr, name: name_hr, widget: string}
+              - {label: Archive Name En, name: name_en, widget: string}
+              - {label: Archive Link, name: link, widget: string}
+
+      - label: "Archive Gallery"
+        name: "archive_gallery"
+        file: cms/archive_gallery.yml
+        fields:
+          - label: Galleries
+            name: galleries
+            widget: list
+            fields:
+              - {label: Gallery Name Hr, name: name_hr, widget: string}
+              - {label: Gallery Name En, name: name_en, widget: string}
+              - {label: Gallery Year, name: year, widget: string}
+
+      - label: "Documents"
+        name: "documents"
+        file: cms/documents.yml
+        fields:
+          - label: Documents
+            name: documents
+            widget: list
+            fields:
+              - {label: Name Hr, name: name_hr, widget: string}
+              - {label: Name En, name: name_en, widget: string}
+              - {label: Link Hr, name: link_hr, widget: string}
+              - {label: Link En, name: link_en, widget: string}
+          
+      - label: "Board"
+        name: "board"
+        file: cms/board.yml
+        fields:
+          - label: Scientific Board Members
+            name: scientific_board
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Name, name: name, widget: string}
+              - {label: Surname, name: surname, widget: string}
+          - label: Honorary Board Members
+            name: honorary_board
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Name, name: name, widget: string}
+              - {label: Surname, name: surname, widget: string}
+          
+      - label: "Footer"
+        name: "footer"
+        file: cms/footer.yml
+        fields:
+          - { label: 'Facebook Link', name: 'fb_link', widget: 'string'}
+          - { label: 'Instagram Link', name: 'ig_link', widget: 'string'}
+          

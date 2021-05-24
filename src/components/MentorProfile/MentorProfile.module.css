@@ -1,0 +1,37 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border-bottom: 1px solid #FFFFFF;
+    column-gap: 0.5em;
+    padding-bottom: 0.35em;
+    margin-top: 0.35em;
+}
+
+.wrapper:last-child {
+    border-bottom: none;
+}
+
+@media (max-width: 500px) {
+    .wrapper {
+        grid-template-columns: repeat(2, min-content);
+        grid-template-areas: 
+        "title title"
+        "name surname";
+        justify-content: center;
+    }
+
+    .title {
+        grid-area: title;
+        text-align: center;
+        margin-bottom: 0.25em;
+    }
+
+    .name {
+        grid-area: name;
+    }
+
+    .surname {
+        grid-area: surname;
+        white-space: nowrap;
+    }
+}

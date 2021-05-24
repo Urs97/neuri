@@ -1,0 +1,63 @@
+brochures_1:
+  - brochure_title_hr: Aktivni
+    brochure_title_en: Active
+    brochure_price_hr: 200 kn
+    brochure_price_en: 27 eur
+    perks:
+      - perk_hr: Sudjelovanje u znanstvenom programu, plenarna predavanja i radionice
+        perk_en: Admission to the scientific program, plenary lectures, and workshops
+      - perk_en: A copy of the book of abstracts, a congress bag and materials
+        perk_hr: Knjiga sažetaka, kongresna torba i materijali
+      - perk_hr: Potvrda o aktivnom sudjelovanju
+        perk_en: Certificate of active participation
+      - perk_en: Coffee breaks & Meals
+        perk_hr: Coffee breaks & Meals
+      - perk_hr: Pratnja i pomoć pri dolasku i pronalasku smještaja
+        perk_en: Escort and help upon your arrival/departure and with finding the
+          accommodation
+      - perk_en: NeuRi social program
+        perk_hr: NeuRi društveni program
+      - perk_en: A day trip to the Island of Rab
+        perk_hr: Izlet na otok Rab
+      - perk_hr: "*samo za sudionike s područja RH"
+        perk_en: "*only for students currently in Republic of Croatia"
+  - brochure_title_hr: Aktivni (Sveučilište u Rijeci)
+    brochure_title_en: Active (University Of Rijeka)
+    brochure_price_hr: 150kn
+    brochure_price_en: 20 eur
+    perks:
+      - perk_hr: Sudjelovanje u znanstvenom programu, plenarna predavanja i radionice
+        perk_en: Admission to scientific programme, plenary lectures and workshops
+      - perk_en: A copy of the book of abstracts, a congress bag and materials
+        perk_hr: Knjiga sažetaka, kongresna torba i materijali
+      - perk_hr: Potvrda o aktivnom sudjelovanju
+        perk_en: Certificate of active participation
+      - perk_en: Coffee breaks & Meals
+        perk_hr: Coffee breaks & Meals
+      - perk_hr: NeuRi društveni program
+        perk_en: NeuRi social program
+      - perk_en: A day trip to the Island of Rab
+        perk_hr: Izlet na otok Rab
+      - perk_en: "*only for students currently in Republic of Croatia"
+        perk_hr: "*samo za sudionike s područja RH"
+  - brochure_title_hr: Pasivni
+    brochure_title_en: Passive
+    brochure_price_hr: 250 kn
+    brochure_price_en: 33 eur
+    perks:
+      - perk_hr: Sudjelovanje u znanstvenom programu, plenarna predavanja i radionice
+        perk_en: Admission to scientific programme, plenary lectures and workshops
+      - perk_en: A copy of the book of abstracts, a congress bag and materials
+        perk_hr: Knjiga sažetaka, kongresna torba i materijali
+      - perk_hr: Potvrda o pasivnom sudjelovanju
+        perk_en: Certificate of passive participation
+      - perk_en: Coffee breaks & Meals
+        perk_hr: Coffee breaks & Meals
+      - perk_hr: Pratnja i pomoć pri dolasku i pronalasku smještaja
+        perk_en: "Escort and help upon your arrival/departure "
+      - perk_en: NeuRi social program
+        perk_hr: NeuRi društveni program
+      - perk_en: A day trip to the Island of Rab
+        perk_hr: Izlet na otok Rab
+      - perk_hr: "*samo za sudionike s područja RH"
+        perk_en: "*only for students currently in Republic of Croatia"

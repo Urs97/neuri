@@ -1,0 +1,49 @@
+.width_wrapper {
+    background-color: rgb(83, 186, 103);
+    padding-bottom: 3em;
+    /* padding top to separate content from nav */
+    padding-top: 6em;
+}
+
+.wrapper {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.members {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1em;
+    row-gap: 2em;
+    justify-items: center;
+}
+
+.button {
+    display: block;
+    text-align: center;
+    width: max-content;
+    margin: 0 auto;
+    margin-top: 3em;
+}
+
+@media (max-width: 800px) {
+    .wrapper {
+        width: 85%;
+    }
+
+    .button {
+        width: 100%;
+    }
+}
+
+@media (max-width: 650px) {
+    .members {
+        width: 100%;
+    }
+}
+
+@media (max-width: 550px) {
+    .wrapper {
+        width: 90%;
+    }
+}
